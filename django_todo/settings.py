@@ -29,7 +29,7 @@ SECRET_KEY = 'django-insecure-bc!06r4_m(v8w)v^qc3srom-%rhlc7#!xtmfg72#0mk#p21eti
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['8000-pajohack-cifsfhellodjan-gutvalj37ao.ws-eu99.gitpod.io']
+ALLOWED_HOSTS = ['8000-pajohack-cifsfhellodjan-gutvalj37ao.ws-eu99.gitpod.io', 'pajo-django-todo-app.herokuapp.com']
 
 
 # Application definition
